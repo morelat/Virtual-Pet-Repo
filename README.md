@@ -2,8 +2,10 @@
 
 ## Names of Pair Working on This Fork
 <Enter Name 1 Here>
+Tyler Moreland
 
 <Enter Name 2 Here>
+Peter Angelino
 
 ## Run from Git Bash
 
